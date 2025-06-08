@@ -1,9 +1,9 @@
-## Predict-Home-Prices
+# Predict-Home-Prices
 
-# Problem Statement
+## Problem Statement
 In the real estate market, determining the fair price of a house is often complex. However, there's a clear correlation between a house’s size and its price. The aim of this project is to simplify this challenge by using Linear Regression to create a model that can predict house prices based on their size.
 
-# Project Goals
+## Project Goals
 - Load and explore a housing dataset
 
 - Clean and prepare data for analysis
@@ -14,7 +14,7 @@ In the real estate market, determining the fair price of a house is often comple
 
 - Evaluate the model performance using real-world data
 
-# Features
+## Features
 - Simple & Clean Code: Easy to read and beginner-friendly
 
 - Data Exploration: Use of pandas to inspect and understand the dataset
@@ -25,5 +25,5 @@ In the real estate market, determining the fair price of a house is often comple
 
 - Real-World Data: Works with a CSV dataset mimicking real home data
 
-# Conclusion
+## Conclusion
 This project helped me understand the real-world application of Linear Regression in the housing industry. Through this notebook, I practiced working with data, visualizing relationships, and building predictive models using Python.
